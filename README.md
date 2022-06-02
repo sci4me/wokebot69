@@ -8,6 +8,7 @@ Some python shit, idk
 
 ## Install
 ```
+git clone this repo
 pip install selenium
 pip install faker
 pip install markovify
